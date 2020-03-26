@@ -1,0 +1,4 @@
+This is an assignment file of week 2
+Thie is the first line.
+This is the second line.
+This is third line.
